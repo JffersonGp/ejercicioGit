@@ -5,3 +5,6 @@ hace cada uno de ellos. Realizamos un taller donde implementaríamos los visto e
 ¿Qué es un sistema de control de versiones?
 Los sistemas de control de versiones son herramientas de software que ayudan a los equipos de software a gestionar los cambios en el 
 código fuente a lo largo del tiempo.
+
+ramas
+Como ignorar archivos para no ser comprometidos en el área de trabajo.Cambiar de ramas y volver a la principal
