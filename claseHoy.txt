@@ -1,0 +1,7 @@
+Clase de hoy:
+Teniendo en cuenta el inicio del módulo de Git, se hizo un pequeño repaso de los comandos utilizados en Git profundizando más en que 
+hace cada uno de ellos. Realizamos un taller donde implementaríamos los visto en clase.
+
+¿Qué es un sistema de control de versiones?
+Los sistemas de control de versiones son herramientas de software que ayudan a los equipos de software a gestionar los cambios en el 
+código fuente a lo largo del tiempo.
