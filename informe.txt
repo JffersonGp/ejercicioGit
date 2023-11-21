@@ -1,3 +1,0 @@
-Clase Anterior:
-Se inició submódulo de Nuevas tecnologías, donde se vio el material de trabajo, se realizó el pacto pedagógico 
-donde se definieron varias cositas y se inicializó inicializo el tema de Git.
